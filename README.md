@@ -1,24 +1,28 @@
 # Hi, I'm Łukasz Perek 👋
 
-Tech support specialist pivoting into Python development and open‑source tooling.  
-I build clean, reproducible CLI apps, experiment with automation and AI, and contribute to the community.
+Python developer focused on building reliable, secure, and maintainable tooling.  
+I specialize in CLI applications, automation, and practical security workflows — with a strong background in enterprise‑grade troubleshooting and systems thinking.
 
-## 🔭 Currently Building
+## 🔭 What I Build
 
-- **desktop‑2fa** — offline, encrypted 2FA authenticator for your desktop  
-- **TodoApp** — console + Tkinter GUI task manager with JSON persistence  
-- **Enigma M4** — historical Enigma machine simulator (M3 → M4)  
-- **python‑cli‑tools** — reusable CLI patterns and utilities  
-- More coming soon: calculator with tests, automation scripts, Flask/FastAPI app
+- **desktop‑2fa** — offline, encrypted TOTP authenticator for desktop environments  
+- **LocalPass** — secure, local‑first password manager with reproducible workflows  
+- **TodoApp** — console + Tkinter task manager with JSON persistence  
+- **Enigma M4** — historically accurate Enigma machine simulator (M3 → M4)  
+- **python‑cli‑tools** — reusable CLI patterns and utilities for Python projects  
+- Upcoming: tested calculator, automation scripts, Flask/FastAPI tooling
 
-## 📚 Learning
+## 🧠 What I Focus On
 
-Python, OOP, GUI design, testing, Flask/FastAPI, reproducible workflows, and open‑source architecture.
+- Clean architecture, reproducible workflows, and maintainable code  
+- Python, OOP, testing, GUI design, and backend fundamentals  
+- Security‑minded development and local‑first tooling  
+- Open‑source collaboration and continuous improvement
 
 ## 💼 Background
 
 10+ years in automotive and telecom (AT&T)  
-Advanced troubleshooting, clear communication, and cross‑team collaboration
+Experienced in advanced troubleshooting, cross‑team collaboration, and delivering stable, user‑focused solutions in enterprise environments.
 
 ## 🌐 Languages
 
@@ -28,17 +32,17 @@ Advanced troubleshooting, clear communication, and cross‑team collaboration
 
 ## ⚡ Interests
 
-Sailing, technology, and continuous learning
+Tooling, security, automation, sailing, and continuous learning.
 
 ## 📫 Contact
 
-- Email: lukasz.perek@gmail.com  
-- LinkedIn: [linkedin.com/in/lukaszperek](https://www.linkedin.com/in/lukaszperek)
+- Email: **lukasz.perek@gmail.com**  
+- LinkedIn: **linkedin.com/in/lukaszperek**
 
-## ❤️ Support the Project
+## ❤️ Support My Work
 
-desktop‑2fa and other tools are fully open‑source and free to use.  
-If you'd like to support development, you can do so here:
+All my tools — including desktop‑2fa — are fully open‑source and free to use.  
+If you'd like to support development:
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-blue?logo=ko-fi&style=flat-square)](https://ko-fi.com/lukaszperek)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee&style=flat-square)](https://buymeacoffee.com/lukaszperek)
